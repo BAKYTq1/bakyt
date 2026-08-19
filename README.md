@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
-
+ 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%2B+TypeScript+%2B+Next.js;Люблю+чистый+код+и+вылизанный+UI;Не+терплю+решений+%22на+авось%22)
 
 </div>
